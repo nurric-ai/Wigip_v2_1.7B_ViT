@@ -1,0 +1,31 @@
+
+# ===================================
+# 1. HEAVY ARTIFACTS (Don't upload to GitHub)
+# ===================================
+# Ignore the entire folder containing your heavy zip files
+model_weights/
+
+# Extra safety: Ignore all zip files anywhere in the project
+*.zip
+
+# Ignore large JAX/PyTorch weight files if they ever appear outside the folder
+*.pkl
+*.pkl.gz
+*.pt
+*.safetensors
+*.bin
+*.h5
+
+# ===================================
+# 2. PYTHON SYSTEM FILES (Standard junk)
+# ===================================
+# Python cache folders
+__pycache__/
+*.py[cod]
+
+# Kaggle/Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders (if any)
+venv/
+env/

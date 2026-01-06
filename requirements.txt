@@ -1,0 +1,13 @@
+# Core Frameworks
+jax
+jaxlib
+flax
+optax
+
+# Data Processing
+datasets
+numpy
+tqdm
+
+# Utilities
+huggingface_hub
