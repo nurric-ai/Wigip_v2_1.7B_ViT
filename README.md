@@ -1,4 +1,14 @@
-# WIGIP-1 v2
+# WIGIP v2
+
+# WIGIP v2: 1.7B ViT-Text Model
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Download%20Weights-yellow)](https://huggingface.co/Nottybro/Wigip_v2_1.7B_ViT)
+
+> **📥 Download Model Weights:**
+> The pre-trained JAX/Flax checkpoints (Stage 1) are hosted on Hugging Face.
+> [**Click here to download the weights**](https://huggingface.co/Nottybro/Wigip_v2_1.7B_ViT)
+
+---
 
 ## Stage 1 – Text Pre-Training (ViT-Style Transformer)
 
